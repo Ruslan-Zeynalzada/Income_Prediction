@@ -9,7 +9,7 @@ dataset = st.container()
 modeling = st.container()
 
 with header : 
-    st.title("The program is to predict whether a person earns less than 50 thousand in a year")
+    st.title("The program is to predict whether a person earns less than 50 thousand in a year or not")
     st.markdown("* **First Section** is about to understanding the Dataset")
     st.markdown("* **Second Section** is about to give inputs and see the prediction result")
 with dataset :
